@@ -1,0 +1,29 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background: linear-gradient(to bottom right, red, orange, yellow,green, blue, indigo,violet);
+}
+
+canvas{
+    box-shadow: 10px 10px 10px orange;
+    border-radius: 10px;
+}
+
+a{
+    font-size: 20px !important;
+    background-color: white;
+    color: black;
+    border-radius: 30px !important;
+    width: 20%;
+}
